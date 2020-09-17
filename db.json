@@ -19,12 +19,12 @@
     { "id": 17, "name": "Scott Robbins", "image": "https://randomuser.me/api/portraits/men/17.jpg",  "type": "twitter"},
     { "id": 18, "name": "Norah Palmer", "image": "https://randomuser.me/api/portraits/men/18.jpg",  "type": "linkedin"},
     { "id": 19, "name": "Keisha Rhodes", "image": "https://randomuser.me/api/portraits/men/19.jpg",  "type": "facebook"},
-    { "id": 20, "name": "Clarence Fry", "image": "https://randomuser.me/api/portraits/men/20.jpg",  "type": "linkedin"},
+    { "id": 20, "name": "Clarence Fry", "image": "https://randomuser.me/api/portraits/men/20.jpg",  "type": "linkedin"}
   ],
   "workspaces": [
     { "id": 1, "name": "Workspace 1", "profiles": [1,4,8,2] },
     { "id": 1, "name": "Workspace 2", "profiles": [5,7,14,11] },
     { "id": 1, "name": "Workspace 3", "profiles": [13,12,9] },
-    { "id": 1, "name": "Workspace 4", "profiles": [20,19,15,3] },
+    { "id": 1, "name": "Workspace 4", "profiles": [20,19,15,3] }
   ]
 }
